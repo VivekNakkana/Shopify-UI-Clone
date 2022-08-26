@@ -10,7 +10,7 @@ This Project is done using `TAILWIND CSS`-CDN
 
 ### Time Taken :Approx 14hr
 
-### [LIVE LINK]()
+### [LIVE LINK](https://shopify-clone-vivekn.netlify.app/)
 
 ### QuickLook - DESKTOP
 ![img](./Assets/Images/Desktop%20look.png)
